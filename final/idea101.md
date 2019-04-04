@@ -1,9 +1,9 @@
-3D Printing
+//3D Printing Research
 
 ![Research](Research.jpg)
 
 - Date: April 04, 2019
-- Description: 
+- Description:
 
 3D printing, similar to regular printing of 2d and flat media, is used and was thought up as a way
 to create an existing object/document a replicate it in a physical form or copy. 3D printing
