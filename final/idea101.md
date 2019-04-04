@@ -1,6 +1,6 @@
 3D Printing Research
 
-![Research](Research.jpg)
+
 
 - Date: April 04, 2019
 - Description:
