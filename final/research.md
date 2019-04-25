@@ -6,7 +6,9 @@ in less than 24 hours and under $4,000, the house was 650 square feet. Multiple 
 Europe are experimenting and starting to rely on 3d printers to build house, some companies include
 Apis Cor, based in Russia and Van Wijnen in the Netherlands. They already trialed and built
 houses, used the printer to lay bricks, and help with laying concrete. The versatility of these
-machines is only limited to ones imagination.
+machines is only limited to ones imagination. In the Netherlands, they are actually implementing
+3d printers to create unique houses and expect people to live in these houses by 2019. The only reason
+they allow this is due to the shortage of brick layers in the country.
 
 A few problems that came up with the practicality and whole concept of 3d printers is the fact that
 they could potentially put many out of jobs. It seems that most of the experiments are done abroad,
@@ -17,3 +19,7 @@ a full house and only used the printers to lay brick or do some of the basic fou
 a chance to have this implemented into society as a normal way for structures to be built.
 If complete houses and buildings are too far a step, then 3d printers could be implemented by fixing
 broken structures, filling potholes, or small things around cities or towns.
+
+Crane wasp: can use any material found around the site as well as any other material given to the printer,
+a 10,000 dollar house. It acts as a crane and allows the printer to move freely in any pattern and direction
+allowing for various designs and styles. 
