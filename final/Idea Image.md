@@ -1,1 +1,1 @@
-![Research](printing.jpg) 
+![Research](images/3dhouse.jpg)
