@@ -4,7 +4,6 @@ Medium: 3d model designed in Tinker cad and 3D printed
 Title: Printing on the Road
 Description: Incorporating 3D printers into common areas such as construction sites and city streets. Maintaining these areas and providing efficient handling of city structures.
 
-Here you describe the relationship between the image of the final work and your project more generally. As well as why you chose to document your final project in this way.
 
 I decided to make a small model of my design and idea using 3d printers. The model represents a two way street with the common design elements around and in it such as plants, cars, turns and a bus stop. The road has some slight problems and if you examine it closely you are able to see a few potholes in the street. This can be related to our own city and its many car damaging holes.
 
