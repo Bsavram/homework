@@ -2,7 +2,7 @@
 
 
 
-- Date: April 04, 2019
+- Date: May 9, 2019
 - Description:
 
 3D printing, similar to regular printing of 2d and flat media, is used and was thought up as a way
@@ -21,4 +21,5 @@ In 2009, the patent on the 3D printer was dropped and the public was able to use
  Back in 2010, the printers got more popular and worked on a full scale, the first body of a full sized car was made. Price wise, these machines used to be up to thousands of dollars when they first came to the public, now there are simple machines that sell for 2 or 3 hundred dollars as well as filaments that are varies colors for $30 or $50. There are also varies materials that companies are making their printers use including liquids, metals, concrete, powder and anything imaginable other than air, for now.
  Another patent expired in December of 2016, which was held by Germanys Fraunhofer Institute. Whenever a new patent for certain material or types of 3D printers expire, the cost of the printers goes down dramatically and even more development and production takes place. The technology is only further being experimented with and expanding its materials, as well as what can be 3D printed, whether it be everyday items, cars, houses, organs and even maybe someday trees.
 
- <img src="final/images/3dhouse.jpg" alt="3d printed house">
+
+ ![Idea101](images/3dhouse.jpg)
