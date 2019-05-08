@@ -1,4 +1,9 @@
 
+Date: March 3, 2019
+Description: Looking up videos online as well as reading articles of varies types of 3D printing machines and milestones that have been achieved.
+
+Here is where you describe the relationship between the Image above and your own research. Including why you choose to document your research in this way
+
 The whole idea of having buildings and structures 3d printed is not a new concept.
 There are already companies that run tests to see how proficient and reliable 3d printing
 can be. Some include Evan Loomis' project where he challenged that he could build a house
@@ -22,4 +27,6 @@ broken structures, filling potholes, or small things around cities or towns.
 
 Crane wasp: can use any material found around the site as well as any other material given to the printer,
 a 10,000 dollar house. It acts as a crane and allows the printer to move freely in any pattern and direction
-allowing for various designs and styles. 
+allowing for various designs and styles.
+
+ ![Research](images/research.jpg)
