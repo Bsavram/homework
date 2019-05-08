@@ -2,7 +2,7 @@
 
 Date: May 9, 2019
 Medium: Digital model made with Tinkercad software, eventually to be 3D printed
-Description: At first I drafted various ideas and questions regarding 3D printing and what future it can have. I then processed to drift the future of 3d printing into one that's more reliable and helpful in a construction aspect, as well as city development. 
+Description: At first I drafted various ideas and questions regarding 3D printing and what future it can have. I then processed to drift the future of 3d printing into one that's more reliable and helpful in a construction aspect, as well as city development.
 After producing a simple piece of custom software for drawing with Emoji's I've begun creating portraits with it, here is my first one, Kim.
 
 Here you describe the relationship between this "In_Progress" image and your own process. Including why you chose to document your process in this way.
@@ -31,3 +31,5 @@ broken structures, filling potholes, or small things around cities or towns.
 Crane wasp: can use any material found around the site as well as any other material given to the printer,
 a 10,000 dollar house. It acts as a crane and allows the printer to move freely in any pattern and direction
 allowing for various designs and styles.
+
+ ![In_progress](In_progress.png) 
