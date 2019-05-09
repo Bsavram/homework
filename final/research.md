@@ -3,6 +3,7 @@ Date: March 3, 2019
 Description: Looking up videos online as well as reading articles of varies types of 3D printing machines and milestones that have been achieved.
 
 
+<br>
 The whole idea of having buildings and structures 3d printed is not a new concept.
 There are already companies that run tests to see how proficient and reliable 3d printing
 can be. Some include Evan Loomis' project where he challenged that he could build a house
@@ -14,6 +15,7 @@ machines is only limited to ones imagination. In the Netherlands, they are actua
 3d printers to create unique houses and expect people to live in these houses by 2019. The only reason
 they allow this is due to the shortage of brick layers in the country.
 
+<br>
 A few problems that came up with the practicality and whole concept of 3d printers is the fact that
 they could potentially put many out of jobs. It seems that most of the experiments are done abroad,
 mainly by European companies. Speaking with an architect I found that in the United States there
@@ -23,10 +25,10 @@ a full house and only used the printers to lay brick or do some of the basic fou
 a chance to have this implemented into society as a normal way for structures to be built.
 If complete houses and buildings are too far a step, then 3d printers could be implemented by fixing
 broken structures, filling potholes, or small things around cities or towns.
-
+<br>
 Crane wasp: can use any material found around the site as well as any other material given to the printer,
 a 10,000 dollar house. It acts as a crane and allows the printer to move freely in any pattern and direction
 allowing for various designs and styles.
 
- ![Research](images/final1.png)
+ ![Research1](images/final1.png)
  ![Research](images/research.jpg)
