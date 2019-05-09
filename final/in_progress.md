@@ -14,4 +14,4 @@ I made a few different models and designs in order to see if I should use a city
 I was thinking of creating an animation of the design as well, but, decided on using sketches and models to better represent how architects and city workers interact and work together. The whole process of designing the landscape around the problem also drew me in.
 
 
- ![In_progress](In_progress.png)
+ ![In_progress](images/In_progress.png)
