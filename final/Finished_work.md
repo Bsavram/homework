@@ -11,5 +11,4 @@ I choose this method of documenting in order to not only use the machine I am re
 
 In a way, the idea can be compared to cement trucks or any other construction machine used to build or develop land. With the easy portability of the design as well as how efficient it is, the printer wastes no time at all. Some may say that it is still a problem since the new machines could replace actual workers, but as previously mentioned, there will still be workers surveillancing, programming and guiding the machines. Also, there are far too many potholes and tiny inconvenience that construction workers don't typically put too much of their time and effort in.
 
-![Finished_work](final1.png)
 ![Finished_work](final2.png)
