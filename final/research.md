@@ -29,5 +29,5 @@ Crane wasp: can use any material found around the site as well as any other mate
 a 10,000 dollar house. It acts as a crane and allows the printer to move freely in any pattern and direction
 allowing for various designs and styles.
 
- ![Research1](images/final1.png)
+
  ![Research](images/research.jpg)
