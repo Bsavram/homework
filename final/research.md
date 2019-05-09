@@ -2,7 +2,6 @@
 Date: March 3, 2019
 Description: Looking up videos online as well as reading articles of varies types of 3D printing machines and milestones that have been achieved.
 
-Here is where you describe the relationship between the Image above and your own research. Including why you choose to document your research in this way
 
 The whole idea of having buildings and structures 3d printed is not a new concept.
 There are already companies that run tests to see how proficient and reliable 3d printing
