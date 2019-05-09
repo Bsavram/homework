@@ -2,7 +2,7 @@
 Date: March 3, 2019
 Description: Looking up videos online as well as reading articles of varies types of 3D printing machines and milestones that have been achieved.
 
-
+<h1> 3D Printing </h1>
 <br>
 The whole idea of having buildings and structures 3d printed is not a new concept.
 There are already companies that run tests to see how proficient and reliable 3d printing
@@ -14,7 +14,6 @@ houses, used the printer to lay bricks, and help with laying concrete. The versa
 machines is only limited to ones imagination. In the Netherlands, they are actually implementing
 3d printers to create unique houses and expect people to live in these houses by 2019. The only reason
 they allow this is due to the shortage of brick layers in the country.
-
 <br>
 A few problems that came up with the practicality and whole concept of 3d printers is the fact that
 they could potentially put many out of jobs. It seems that most of the experiments are done abroad,
